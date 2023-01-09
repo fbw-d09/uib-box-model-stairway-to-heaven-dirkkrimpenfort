@@ -1,0 +1,104 @@
+.container{
+    width: 800px;
+    height:800px;
+    border: 10px solid red;
+
+}
+
+.box-1{
+    width: 200px;
+    height: 200px;
+    background-color: lime;
+    float:right;
+    }
+
+.box-2{
+    width: 200px;
+    height: 200px;
+    background-color: lime;
+    margin-top:200px;
+    margin-left: 380px;
+    border:10px solid gray;
+}
+
+.box-3{
+    width: 200px;
+    height: 200px;
+    background-color: lime;
+    margin-left: 180px;
+}
+
+.box-4{
+    width: 170px;
+    height: 160px;
+    background-color: lime;
+    border:10px solid gray;
+}
+
+.container-2{
+    width: 820px;
+    height:820px;
+    background-color: rgb(216, 46, 46);  
+    }
+
+    .gelbe-box-1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(238, 255, 0);
+    float:left;
+    border:10px solid orange;
+    }
+
+    .whitebox-1{
+        width: 800px;
+        height: 200px;
+        background-color: white;
+        padding:10px
+    }
+
+    .gelbe-box-2{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(238, 255, 0);
+        border:10px solid orange;
+        position:relative;
+        right: -220px;
+       }
+
+       .whitebox-2{
+        width: 400px;
+        height: 220px;
+        background-color: white;
+        position:relative;
+        right: -440px;
+        top:-220px;
+       }
+
+       .gelbe-box-3{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(238, 255, 0);
+        border:10px solid orange;
+        position:relative;
+        right: -440px;
+        top:-220px;
+       }
+
+       .whitebox-3{
+        width: 160px;
+        height: 220px;
+        background-color: white;
+        position:relative;
+        right: -660px;
+        top:-440px;
+       }
+       .gelbe-box-4{
+        width: 160px;
+        height: 140px;
+        background-color: rgb(238, 255, 0);
+        border:10px solid orange;
+        position:relative;
+        right: -660px;
+        top:-440px;
+       }
+
